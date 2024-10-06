@@ -15,15 +15,15 @@ Clonez ce dépôt et ouvrez `index.html` dans votre navigateur.
 
 ## About
 
-1 - C'estu une page web qui a une belle contenue d'animation et une reponsive design fait par Bootstrap
+1 - C'est une page web qui a une belle contenue d'animation et une reponsive design fait par Bootstrap
 
 2 - Une belle .footer
 
 ## Collaborateurs
-- [fordimalanda]( https://github.com/fordimalanda/ )
-- [Nom Collaborateur 2](lien-github)
-- [Nom Collaborateur 3](lien-github)
-- [Nom Collaborateur 4](lien-github)
+- [Fordi Malanda]( https://github.com/fordimalanda/ )
+- [Jordy Buetuena](lien-github)
+- [Don](lien-github)
+- [Joseph](lien-github)
 - [Nom Collaborateur 5](lien-github)
 
 ## Screenshots
